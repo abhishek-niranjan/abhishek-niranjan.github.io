@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Abhishek Niranjan"
 title_separator          : "-"
 name                     : &name "Abhishek Niranjan"
-description              : &description "Computer Science "
+description              : &description "Computer Science Student at IIT Kharagpur"
 url                      : https://abhishek-niranjan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abhishek-niranjan/abhishek-niranjan.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Abhishek Niranjan"
   avatar           : "profile.png"
-  bio              : "Data Science Enthusiast"
+  bio              : "Computer Science student at Indian Institute of Technology, Kharagpur. Former Data Science Intern @AmplusSolar and @BidgelyTechnologies"
   location         : "IIT Kharagpur, India"
   employer         : 
   googlescholar    : "https://scholar.google.co.in/citations?hl=en&user=mk7AcYgAAAAJ&view_op=list_works&gmla=AJsN-F6Kvti3Og1mKKadJZr8SxJve4nIN4ucsrei1touWSKqunVy7Ng2475aFGmoFw04YGI_IdMN3xl0fTfe2ZeTdeH8zB7KKIfiSX-rHcn-6PlD_-2XqUQ"
