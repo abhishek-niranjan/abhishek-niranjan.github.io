@@ -11,7 +11,10 @@ main:
     
   - title: "Skills"
     url: /skills/
-    
+  
+  - title: "Leadership Positions"
+    url: /pors/
+
   - title: "Curriculum Vitae"
     url: /cv/
 
