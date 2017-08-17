@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/jcdl1
 excerpt: 'We analyzed a massive dataset comprising of nearly 1.5 million computer science articles and more than 26 million citation
 contexts to understand the behavior of "Copying Citation Contexts" amongst the researchers.'
-date: 2017
+date: 2017-06-22
 venue: 'Joint Conference on Digital Libraries, Toronto, Canada'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
