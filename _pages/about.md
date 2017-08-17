@@ -18,7 +18,7 @@ My research interests include:
 * Deep Learning 
 * Natural Language Processing
 
-Given my research interests, I have been involved with **Data Science** Positions in the Energy Industy. Since been fascinated with the intersection of Data Science with Energy, Finance and Transportation sectors. Also, I am a keen follower of **Blockchain Technology** and really wish to add to my skillset in future.
+Given my research interests, I have been involved with **Data Science** Positions in the Energy Industy. Since been fascinated with the intersection of Data Science with Energy, Finance and Transportation sectors. Also, I am a keen follower of **Blockchain Technology** and really wish to add it to my skillset in future.
 
 # Hobbies 
 
