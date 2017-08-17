@@ -8,18 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am Abhishek Niranjan, a final-year student pursuing Integrated Bachelor and Masters in Computer Science and Engineering from Indian Institute of Technology, Kharagpur. My Masters thesis is on <span style="color:lightblue;">Temporal Analysis of Tasks and Techniques in Computational Linguistics</span> under [Prof. Pawan Goyal](http://cse.iitkgp.ac.in/~pawang/), Computer Science and Engineering Department, IIT Kharagpur.
+Welcome! I am Abhishek Niranjan, a final-year student pursuing Integrated Bachelor and Masters in Computer Science and Engineering from Indian Institute of Technology, Kharagpur. My Masters thesis is on <span style="color:blue;">Temporal Analysis of Tasks and Techniques in Computational Linguistics</span> under [Prof. Pawan Goyal](http://cse.iitkgp.ac.in/~pawang/), Computer Science and Engineering Department, IIT Kharagpur.
 
-## Interests
+# Interests
 
 My research interests include 
+
 	* Machine Learning
 	* Deep Learning 
 	* Natural Language Processing
 
 Given my research interests, I have been involved with **Data Science Positions** in the Energy Industy. I have since been fascinated with the intersection of Energy, Finance and Transportation sectors. Also, I am a keen follower of Blockchain Technology and really wish to add to my skillset in future.
 
-## Hobbies 
+# Hobbies 
 
 Coming out from a Defense background, I have been actively involved in various outdoor activities. A regional level Basketball and Badminton player and an amateur Football player is how I define my sports profile presently. Chess, Rubik's cube(and variations) and Sudoku have always consumed a fraction my brain's daily duty hours for long. 
 
