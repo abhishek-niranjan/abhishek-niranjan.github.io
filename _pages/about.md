@@ -1,14 +1,31 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "About me"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome! I am Abhishek Niranjan, a final-year student pursuing Integrated Bachelor and Masters in Computer Science and Engineering from Indian Institute of Technology, Kharagpur. My Masters thesis is on <span style="color:lightblue;">Temporal Analysis of Tasks and Techniques in Computational Linguistics</span> under [Prof. Pawan Goyal](http://cse.iitkgp.ac.in/~pawang/), Computer Science and Engineering Department, IIT Kharagpur.
+
+## Interests
+
+My research interests include 
+	* Machine Learning
+	* Deep Learning 
+	* Natural Language Processing
+
+Given my research interests, I have been involved with **Data Science Positions** in the Energy Industy. I have since been fascinated with the intersection of Energy, Finance and Transportation sectors. Also, I am a keen follower of Blockchain Technology and really wish to add to my skillset in future.
+
+## Hobbies 
+
+Coming out from a Defense background, I have been actively involved in various outdoor activities. A regional level Basketball and Badminton player and an amateur Football player is how I define my sports profile presently. Chess, Rubik's cube(and variations) and Sudoku have always consumed a fraction my brain's daily duty hours for long. 
+
+A Cinephile. Avid follower of Reebok Crossfit Games. Wannabe Cliff Diver. Aspires to learn many languages(German at present).
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======
@@ -48,3 +65,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ -->
