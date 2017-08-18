@@ -25,4 +25,4 @@ Coursework
 
 Curriculum Vittae
 ======
-Download my [Curriculum Vitae](https://abhishek-niranjan.github.io/files/fullcv.pdf)
+Download my  <span style="color:#52ADC8;">[Curriculum Vitae](https://abhishek-niranjan.github.io/files/fullcv.pdf)</span> here. 
