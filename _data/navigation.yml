@@ -9,12 +9,13 @@ main:
   - title: "Publications"
     url: /publications/
     
-  - title: "Skills"
-    url: /skills/
-  
-  - title: "Leadership Positions"
-    url: /pors/
-
   - title: "Curriculum Vitae"
     url: /cv/
+
+  - title: "Leadership Positions"
+    url: /pors/
+  
+  - title: "Contact"
+    url: /contact/
+  
 
