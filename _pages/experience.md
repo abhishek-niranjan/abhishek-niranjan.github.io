@@ -5,8 +5,8 @@ permalink: /experience/
 author_profile: true
 ---
 
-### Teaching Asssitant | Programming and Data Structures Course | IIT Kharagpur | Aug '17 - Present
-* Tutored the 1st year students on the basics of Programming and Data Structures on a weekly basis at IIT Kharagpur.
+### <img src='/images/kgp.png'> Teaching Asssitant | Programming and Data Structures Course | IIT Kharagpur | Aug '17 - Present
+* Tutored the 1<sup>st</sup> year students on the basics of Programming and Data Structures on a weekly basis at IIT Kharagpur.
 * Co-authored the tutorial and assignments sheets for the students on the basic concepts of Programming and Data Structures.
 
 ### Data Science Intern | Amplus Solar | May '17 - Jul '17
