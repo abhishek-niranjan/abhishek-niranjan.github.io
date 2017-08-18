@@ -22,7 +22,7 @@ Given my research interests, I have been involved with **Data Science** Position
 
 # Hobbies 
 
-Coming out from a Defense background, I have been actively involved in various outdoor activities. A regional level Basketball and Badminton player and an amateur Football player is how I define my sports profile presently. Chess, Rubik's cube(and variations) and Sudoku have always consumed a fraction my brain's daily duty hours for long. 
+Coming from a Defense background, I have been actively involved in various outdoor activities. A regional level Basketball and Badminton player and an amateur Football player is how I define my sports profile presently. Chess, Rubik's cube(and variations) and Sudoku have always consumed a fraction my brain's daily duty hours for long. 
 
 A Cinephile. Avid follower of Reebok Crossfit Games. Wannabe Cliff Diver. Aspires to learn many languages(German at present).
 
