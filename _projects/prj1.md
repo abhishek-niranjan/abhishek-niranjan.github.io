@@ -1,7 +1,7 @@
 ---
 title: "Citation sentence reuse behavior of scientists: A case study on massive bibliographic text dataset of computer science"
-collection: publications
-permalink: /publication/jcdl1
+collection: projects
+permalink: /projects/prj1
 excerpt: 'We analyzed a massive dataset comprising of nearly 1.5 million computer science articles and more than 26 million citation
 contexts to understand the behavior of "Copying Citation Contexts" amongst the researchers. Click on the title to read the abstract.'
 date: 2017-06-22
