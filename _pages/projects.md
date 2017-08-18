@@ -5,7 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-sdfasfdas
 {% include base_path %}
 
 {% for post in site.portfolio %}

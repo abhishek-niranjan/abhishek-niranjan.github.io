@@ -3,6 +3,8 @@ title: "Temporal Analysis of Tasks and Techniques in Computational Linguistics :
 collection: projects
 permalink: /projects/prj1
 excerpt: 'This project focuses on studying how the popularity of different tasks an techniques related to Natural Language Processing Research emerge/varies with respect to time.'
+venue: 'IIT Kharagpur'
+
 ---
 
 
