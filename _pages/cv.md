@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Skills
+## Skills
 * **Programming Languages:** C++, Python, C, SQL
 * **Libraries and Frameworks:** Scikit-Learn, TensorFlow, Keras, Natural Language Toolkit, OpenCV, Django, PyQt4
 * **Softwares:** MATLAB, Tableau, Power BI, Eclipse, PyCharm
@@ -17,9 +17,9 @@ redirect_from:
 * **Documentation:** LaTeX, UML Diagrammer
 
 
-### Coursework
+## Coursework
 * Probability and Statistics, Algorithms and Data Structures, Discrete Structures, Machine Learning, Deep Learning, Natural Language Processing, Introduction to Cognititve Information Processing, Database Management Systems, Geographical Information Systems
 
 
-### Curriculum Vitae
+## Curriculum Vitae
 Download my  <span style="color:#52ADC8;">[Curriculum Vitae](https://abhishek-niranjan.github.io/files/fullcv.pdf)</span> here. 
