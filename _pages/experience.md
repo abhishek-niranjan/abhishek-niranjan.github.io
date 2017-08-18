@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-### <img src='/images/kgp.png'  width="50" height="50">  Teaching Asssitant | Programming and Data Structures Course | IIT Kharagpur | Aug '17 - Present
+### Teaching Asssitant | Programming and Data Structures Course | IIT Kharagpur | Aug '17 - Present                    <img src='/images/kgp.png'  width="50" height="50">  
 * Tutored the 1<sup>st</sup> year students on the basics of Programming and Data Structures on a weekly basis at IIT Kharagpur.
 * Co-authored the tutorial and assignments sheets for the students on the basic concepts of Programming and Data Structures.
 
